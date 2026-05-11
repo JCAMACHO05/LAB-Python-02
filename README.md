@@ -227,8 +227,21 @@ Dado lo anterior y el algoritmo visto en clase, modelar el juego y simularlo don
 
 ## Retrospectiva
 1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+El tiempo total invertido fue aproximadamente de 6 horas/hombre. Este tiempo incluyó el análisis del problema, el diseño del algoritmo Minimax, la implementación en Python, las pruebas del programa y la corrección de errores.
 2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+El laboratorio se encuentra finalizado y funcional. El programa permite jugar correctamente contra la computadora utilizando el algoritmo Minimax, validando movimientos y determinando adecuadamente el ganador de la partida.
 3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+El mayor logro fue implementar correctamente el algoritmo Minimax aplicado al juego NIM. Esto permitió que la computadora tomara decisiones óptimas en cada turno, demostrando el funcionamiento de la inteligencia artificial en juegos de estrategia.
 4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+El mayor problema técnico fue comprender la lógica recursiva del algoritmo Minimax y establecer correctamente los casos base. Para resolverlo, se realizaron pruebas paso a paso, diagramas del árbol de decisiones y validaciones manuales de las jugadas posibles.
 5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Se trabajó de manera organizada y constante, dividiendo las tareas entre análisis, programación y pruebas. Para mejorar los resultados, se propone optimizar el código, mejorar la interfaz del juego y documentar de manera más detallada cada función implementada.
 6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+Referencias:
+Python Documentation
+Documentación oficial utilizada para manejo de funciones, estructuras de control y recursividad.
+GeeksforGeeks - Minimax Algorithm in Game Theory
+Explicación del algoritmo Minimax y ejemplos de aplicación en juegos.
+Wikipedia - Nim
+Información general sobre las reglas y estrategia del juego NIM.
+La referencia más útil fue la explicación de GeeksforGeeks, ya que permitió entender la lógica del algoritmo Minimax y cómo aplicarlo al problema planteado.
